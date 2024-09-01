@@ -23,3 +23,7 @@ b = 'Pithon'
 b[:1] # P
 b[2:] # thon
 p[:1] + 'y' + b[2:] # Python
+
+
+#포맷 정렬
+'%10s' % 'hi' #           hi
